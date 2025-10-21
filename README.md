@@ -1,5 +1,5 @@
 # Rover upgrade
-Aggiornare il rover wifi per ospitare la centralina di monitoraggio del PM2.5, con a bordo sensore di umidità e temperatura e ricevitore GPS.
+Aggiornare il [Mini-R, WiFi robot rover](https://github.com/lucasguanci/mini-r-esp8266-robot-rover), per ospitare la [centralina di monitoraggio del PM2.5](https://github.com/lucasguanci/pm25-monitoring-station), con a bordo sensore di umidità e temperatura e ricevitore GPS.
 
 ## Adafruit Feather M0 Express
 - [Adafruit Feather M0 Express](https://learn.adafruit.com/adafruit-feather-m0-express-designed-for-circuit-python-circuitpython)
