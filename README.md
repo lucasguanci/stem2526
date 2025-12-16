@@ -4,6 +4,9 @@ Aggiornare il [Mini-R, WiFi robot rover](https://github.com/lucasguanci/mini-r-e
 ## Adafruit Feather M0 Express
 - [Adafruit Feather M0 Express](https://learn.adafruit.com/adafruit-feather-m0-express-designed-for-circuit-python-circuitpython)
 - [pinout](https://learn.adafruit.com/adafruit-feather-m0-express-designed-for-circuit-python-circuitpython/adafruit2-pinouts) 
+To install CircuitPython on a Feather M0 Express, see [](https://circuitpython.org/board/feather_m0_express/)
+For CircuitPython releases, see [here](https://circuitpython.org/libraries) and [here](https://learn.adafruit.com/welcome-to-circuitpython/frequently-asked-questions#faq-3105289)
+
 
 ## Adafruit GPS FeatherWing
 [Adafruit GPS FeatherWing](https://learn.adafruit.com/adafruit-ultimate-gps-featherwing)
