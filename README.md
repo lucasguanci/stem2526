@@ -11,6 +11,10 @@ For CircuitPython releases, see [here](https://circuitpython.org/libraries) and 
 
 To use a buzzer with the M0 Express see [here](https://learn.adafruit.com/using-piezo-buzzers-with-circuitpython-arduino/circuitpython)
 
+## Adafruit Feather M4 CAN Express
+https://learn.adafruit.com/adafruit-feather-m4-can-express/overview
+For CircuitPython releases, see [here](https://circuitpython.org/board/feather_m4_express/)
+
 ## Adafruit GPS FeatherWing
 [Adafruit GPS FeatherWing](https://learn.adafruit.com/adafruit-ultimate-gps-featherwing)
 
