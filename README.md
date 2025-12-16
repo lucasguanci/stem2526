@@ -9,6 +9,7 @@ To install CircuitPython on a Feather M0 Express, see [here](https://circuitpyth
 
 For CircuitPython releases, see [here](https://circuitpython.org/libraries) and [here](https://learn.adafruit.com/welcome-to-circuitpython/frequently-asked-questions#faq-3105289)
 
+To use a buzzer with the M0 Express see [here](https://learn.adafruit.com/using-piezo-buzzers-with-circuitpython-arduino/circuitpython)
 
 ## Adafruit GPS FeatherWing
 [Adafruit GPS FeatherWing](https://learn.adafruit.com/adafruit-ultimate-gps-featherwing)
